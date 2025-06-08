@@ -9,7 +9,7 @@ import java.util.List;
 
 @RestController
 @CrossOrigin(origins = "http://localhost:3000")
-@RequestMapping("/api/products")
+@RequestMapping("/api/Amazon")
 public class AmazonProductController {
 
     @Autowired
